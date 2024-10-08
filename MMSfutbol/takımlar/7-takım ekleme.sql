@@ -1,0 +1,18 @@
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Galatasaray', 1);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Fenerbahçe', 2);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Beşiktaş JK', 3);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Trabzonspor', 4);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('İstanbul Başakşehir FK', 5);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Çaykur Rizespor', 6);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Göztepe', 7);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Eyüpspor', 8);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Kasımpaşa', 9);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Samsunspor', 10);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Antalyaspor', 11);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Alanyaspor', 12);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Konyaspor', 13);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Sivasspor', 14);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Kayserispor', 15);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Hatayspor', 16);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Gaziantep FK', 17);
+INSERT INTO Takimlar (TakimAdi, StadyumID) VALUES ('Adana Demirspor', 18);

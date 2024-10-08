@@ -1,0 +1,4 @@
+CREATE TABLE Haftalar (
+    HaftaID SERIAL PRIMARY KEY,
+    HaftaNo INT NOT NULL
+);

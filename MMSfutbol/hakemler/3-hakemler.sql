@@ -1,0 +1,4 @@
+CREATE TABLE Hakemler (
+    HakemID SERIAL PRIMARY KEY,
+    HakemAdi VARCHAR(50) NOT NULL
+);

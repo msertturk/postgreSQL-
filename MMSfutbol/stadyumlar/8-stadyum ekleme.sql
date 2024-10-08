@@ -1,0 +1,18 @@
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Ali Sami Yen Spor Kompleksi RAMS Park', 52.468);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi',47.544);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Tüpraş Stadyumu ', 42.445);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Papara Park', 41.131);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Başakşehir Fatih Terim', 17.156);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Çaykur Didi', 14.850);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Gürsel Aksel Stadyumu', 19.713 );
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Recep Tayyip Erdoğan Stadyumu', 13.797);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Recep Tayyip Erdoğan Stadyumu', 13.797);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Samsun Yeni 19 Mayıs Stadyumu', 33.919);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Corendon Airlines Park Antalya Stadı', 29.307);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Gain Park Stadyumu ', 9.789 );
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Medaş Konya Büyükşehir Stadyumu', 41.600);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Yeni 4 Eylül Stadı', 27.734);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' RHG Enertürk Enerji Stadyumu', 32.864);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Mersin Stadyumu', 25.000);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Kalyon Stadyumu', 30.320);
+INSERT INTO Stadyumlar (StadyumAdi, Kapasite) VALUES (' Yeni Adana Stadyumu', 30.960);
